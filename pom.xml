@@ -46,7 +46,7 @@
 	</dependencies>
 	<scm>
 		<developerConnection>scm:git:http\://madhavpulipaka@github.com/madhavpulipaka/spring-boot-docker</developerConnection>
-		<tag>madhav-release5-tag</tag>
+		<tag>madhav-release6-tag</tag>
 	</scm>
 	<build>
 		<plugins>
@@ -64,7 +64,7 @@
 				<artifactId>maven-scm-plugin</artifactId>
 				<version>1.11.2</version>
 				<configuration>
-					<username>madhavpulipaka@gmail.com</username>
+					<username>madhavpulipaka</username>
 					<password>panasonic1=</password>
 				</configuration>
 			</plugin>
