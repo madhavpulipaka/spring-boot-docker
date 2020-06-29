@@ -64,7 +64,7 @@
 				<artifactId>maven-scm-plugin</artifactId>
 				<version>1.11.2</version>
 				<configuration>
-					<username>madhavpulipaka</username>
+					<username>madhavpulipaka@gmail.com</username>
 					<password>panasonic1=</password>
 				</configuration>
 			</plugin>
